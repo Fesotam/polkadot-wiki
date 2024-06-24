@@ -1,3 +1,4 @@
+The Polkadot Wiki is the central source of truth for Polkadot. It is a community-focused initiative led by Web3 Foundation to keep an up-to-date resource on the best information for learning, building, or maintaining on Polkadot.
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/25497083/148661419-419ad5b3-1b9f-480a-b723-3f292616730c.png" width="200">
 </p>
